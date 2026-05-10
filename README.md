@@ -155,6 +155,23 @@
 
 ---
 
+---
+
+## 🤖 AI Agent
+
+| 工具 | 描述 | 价格 |
+|------|------|------|
+| [Claude Code](https://claude.ai) | Anthropic终端AI编程Agent | $20/月 |
+| [Cursor Agent](https://cursor.sh) | AI IDE，Agent模式自动多文件编辑 | 免费/$20月 |
+| [Codex CLI](https://github.com/openai/codex) | OpenAI开源终端Agent | 免费 |
+| [Aider](https://github.com/paul-gauthier/aider) | AI结对编程Agent | 免费 |
+| [lobehub](https://github.com/lobehub/lobehub) | 多Agent协作工作空间 | 免费 |
+| [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | 自主AI Agent | 免费 |
+| [CrewAI](https://github.com/crewAIInc/crewAI) | 多Agent协作框架 | 免费/$18月 |
+| [9router](https://github.com/decolua/9router) | 免费AI编程路由，连40+模型 | 免费 |
+
+---
+
 ## 🌟 贡献
 
 欢迎PR推荐更多好用的AI工具！
