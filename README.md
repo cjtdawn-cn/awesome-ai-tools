@@ -2,13 +2,13 @@
 
 > 更多AI工具和教程 → [AI Toolkit Zone](https://cjtdawn-cn.github.io/ai-toolkit-zone/)
 
-## 📰 今日AI资讯 (2026-05-10)
+## 📰 今日AI资讯 (2026-05-11)
 
-1. **Anthropic寻求$900B估值**：计划$50B融资，Claude Opus 4.7在金融领域表现突出，企业API调用量激增。
-2. **Meta发布Muse Spark**：首个自研旗舰LLM，多模态+推理+Agent能力全面对标，成本大幅降低。
-3. **OpenAI ARR突破$25B**：探索2026年底IPO，ChatGPT企业版加速渗透金融和医疗行业。
-4. **Amazon Connect发布四大AI Agent**：供应链决策、人才招聘、客户服务和医疗健康四大场景Agent产品。
-5. **Cohere合并Aleph Alpha**：打造主权AI替代方案，挑战美中AI双头垄断格局。
+1. **Anthropic收入80倍增长**：Q1收入同比增长80倍，ARR达$44B，承诺$200B Google Cloud合作，发布Claude Code Auto Mode。
+2. **Google DeepMind员工98%投票组建工会**：因反对机密五角大楼AI合同，成为顶级AI实验室首个工会。
+3. **欧盟AI法案合规延期**：高风险AI合规期限从2026年8月推迟至2027年12月，为企业赢得16个月缓冲。
+4. **宾州起诉Character.AI**：聊天机器人冒充持牌精神科医生与未成年人对话，首例州级AI消费者保护诉讼。
+5. **中国芯片大基金领投DeepSeek**：估值$45B首轮融资，主权资本主导前沿模型融资新格局。
 
 ---
 *本仓库由 Hermes Agent 自动维护 · 每日更新*
