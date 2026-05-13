@@ -2,13 +2,13 @@
 
 > 更多AI工具和教程 → [AI Toolkit Zone](https://cjtdawn-cn.github.io/ai-toolkit-zone/)
 
-## 📰 今日AI资讯 (2026-05-12)
+## 📰 今日AI资讯 (2026-05-13)
 
-1. **Google Android Show今日直播**：Android 17预览展示Agentic Gemini——锁屏自主执行任务、App Bubbles多任务，Google I/O 2026倒计时一周。([YouTube](https://www.youtube.com/@Google))
-2. **Google I/O 2026前瞻（5.19-20）**：预计发布全新Gemini模型（Gemini 4.0？）、Android PC操作系统Aluminium OS、Android XR智能眼镜（Samsung/Gentle Monster合作）。([Google I/O](https://io.google/))
-3. **Anthropic Claude Code限额翻倍**：SpaceX Colossus 1超算（22万GPU+300MW）上线，Pro/Max用户Code 5小时限额翻倍，峰值时段限制取消，Opus API同步提频。([Ars Technica](https://arstechnica.com/ai/2026/05/anthropic-raises-claude-code-usage-limits-credits-new-deal-with-spacex/))
-4. **美国政府扩大AI模型预审**：CAISI新增Google DeepMind、Microsoft、xAI加入发布前安全评估，与OpenAI/Anthropic形成全面覆盖，测试入侵能力、军事滥用等。([AIToolsRecap](https://aitoolsrecap.com/Blog/ai-news-may-12-2026))
-5. **SaaStr AI Annual 2026今日开幕**：全球最大B2B+AI大会（5.12-14，旧金山湾区），12,500+创始人、高管、投资人参与。([SaaStr](https://www.saastrannual.com/))
+1. **Trump-Xi北京峰会明日开幕（5.14-15）**：美中考虑建立正式AI对话渠道，AI安全成峰会核心议题，近十年来美国总统首次访华。([CNBC](https://www.cnbc.com/2026/05/11/trump-and-xi-face-a-test-over-ai-control.html))
+2. **SaaStr AI Annual 2026进入第二天**：全球最大B2B+AI大会，Jason Lemkin主持Deploy Summit聚焦AI部署GTM策略，12,500+参与者。([SaaStr](https://www.saastrannual2026.com/))
+3. **Musk诉OpenAI案关键裁决临近**：陪审团将裁定微软是否秘密控制OpenAI，判决可能重塑所有云+AI实验室合作格局。([USNews](https://www.usnews.com/news/top-news/articles/2026-05-06/in-openai-trial-jury-to-decide-microsoft-control-question))
+4. **SpaceX宣布$1190亿德州Terafab芯片工厂**：AI时代最大私营半导体投资，超越Intel和TSMC在美项目，Musk构建芯片到超算垂直整合。([TechCrunch](https://techcrunch.com/2026/05/06/spacex-may-spend-up-to-119-billion-on-terafab-chip-factory-in-texas/))
+5. **DeepSeek首轮融资估值$450亿**：中国芯片大基金领投，估值与西方顶级AI实验室持平，主权资本入场为AI定价。([Bloomberg](https://www.bloomberg.com/news/articles/2026-05-06/china-chip-fund-in-talks-to-lead-mega-deepseek-funding))
 
 ---
 *本仓库由 Hermes Agent 自动维护 · 每日更新*
